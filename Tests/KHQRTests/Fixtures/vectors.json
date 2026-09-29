@@ -1,0 +1,6180 @@
+[
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb52045999530311654065000.05802KH5910jonh smith6010Phnom Penh62360109#INV-20030313Coffee Klaing0702#299170013161302797275763049ACF",
+  "output": {
+   "merchantType": "29",
+   "bakongAccountID": "john_smith@devb",
+   "accountInformation": null,
+   "merchantID": null,
+   "acquiringBank": null,
+   "billNumber": "#INV-2003",
+   "mobileNumber": null,
+   "storeLabel": "Coffee Klaing",
+   "terminalLabel": "#2",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1613027972757",
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "116",
+   "transactionAmount": "5000.0",
+   "countryCode": "KH",
+   "merchantName": "jonh smith",
+   "merchantCity": "Phnom Penh",
+   "crc": "9ACF"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230410015john_smith@devb01061234560208Dev Bank52045999530384054035.05802KH5916john smith actor6010Phnom Penh62130709Counter 299170013161343857579463048EF2",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "john_smith@devb",
+   "accountInformation": null,
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": null,
+   "mobileNumber": null,
+   "storeLabel": null,
+   "terminalLabel": "Counter 2",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1613438575794",
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "5.0",
+   "countryCode": "KH",
+   "merchantName": "john smith actor",
+   "merchantCity": "Phnom Penh",
+   "crc": "8EF2"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230410015john_smith@devb01061234560208Dev Bank52045999530384054035.05802KH5916john smith actor6010Phnom Penh62280111Invoice#0690709Counter 29917001316134385758926304384E",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "john_smith@devb",
+   "accountInformation": null,
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "Invoice#069",
+   "mobileNumber": null,
+   "storeLabel": null,
+   "terminalLabel": "Counter 2",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1613438575892",
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "5.0",
+   "countryCode": "KH",
+   "merchantName": "john smith actor",
+   "merchantCity": "Phnom Penh",
+   "crc": "384E"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230410015john_smith@devb01061234560208Dev Bank52045999530384054035.05802KH5916john smith actor6010Phnom Penh62150111Invoice#0699917001316134385758926304552D",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "john_smith@devb",
+   "accountInformation": null,
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "Invoice#069",
+   "mobileNumber": null,
+   "storeLabel": null,
+   "terminalLabel": null,
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1613438575892",
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "5.0",
+   "countryCode": "KH",
+   "merchantName": "john smith actor",
+   "merchantCity": "Phnom Penh",
+   "crc": "552D"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "000201010211021641277800000000980416518352888000006030470016abaakhppxxx@abaa01153166007701102420204abaa5204224253038405802KH5910USD OUTLET6010PHNOM PENH62250509115B02750070827CE19809924001339CA026411FDA6803mmp63043870",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "abaakhppxxx@abaa",
+   "accountInformation": null,
+   "merchantID": "316600770110242",
+   "acquiringBank": "abaa",
+   "billNumber": null,
+   "mobileNumber": null,
+   "storeLabel": null,
+   "terminalLabel": "27CE1980",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "39CA026411FDA",
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "11",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "2242",
+   "transactionCurrency": "840",
+   "transactionAmount": null,
+   "countryCode": "KH",
+   "merchantName": "USD OUTLET",
+   "merchantCity": "PHNOM PENH",
+   "crc": "3870"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021130470009khqr@aclb0111855124649170215ACLEDA Bank Plc5204599953038405802KH5907BUN MAO6010Phnom Penh6102126213020901050033164310002KM0107BUN MAO0210Phnom Penh6304E313",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "khqr@aclb",
+   "accountInformation": null,
+   "merchantID": "85512464917",
+   "acquiringBank": "ACLEDA Bank Plc",
+   "billNumber": null,
+   "mobileNumber": "010500331",
+   "storeLabel": null,
+   "terminalLabel": null,
+   "purposeOfTransaction": null,
+   "languagePreference": "KM",
+   "merchantNameAlternateLanguage": "BUN MAO",
+   "merchantCityAlternateLanguage": "Phnom Penh",
+   "creationTimestamp": null,
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "11",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": null,
+   "countryCode": "KH",
+   "merchantName": "BUN MAO",
+   "merchantCity": "Phnom Penh",
+   "crc": "E313"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021130640009khqr@aclb0111855124649060215ACLEDA Bank Plc051385500000019425204593153038405802KH5912KHQR TESTING6010Phnom Penh6102126213020901753577164360002KM0112KHQR TESTING0210Phnom Penh6304AC1C",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "khqr@aclb",
+   "accountInformation": null,
+   "merchantID": "85512464906",
+   "acquiringBank": "ACLEDA Bank Plc",
+   "billNumber": null,
+   "mobileNumber": "017535771",
+   "storeLabel": null,
+   "terminalLabel": null,
+   "purposeOfTransaction": null,
+   "languagePreference": "KM",
+   "merchantNameAlternateLanguage": "KHQR TESTING",
+   "merchantCityAlternateLanguage": "Phnom Penh",
+   "creationTimestamp": null,
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "11",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5931",
+   "transactionCurrency": "840",
+   "transactionAmount": null,
+   "countryCode": "KH",
+   "merchantName": "KHQR TESTING",
+   "merchantCity": "Phnom Penh",
+   "crc": "AC1C"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021229310014jonhsmith@nbcq0109012345678520459995303116540750000.05802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-1070601234599170013163039583850263041134",
+  "output": {
+   "merchantType": "29",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": "012345678",
+   "merchantID": null,
+   "acquiringBank": null,
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1630395838502",
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "116",
+   "transactionAmount": "50000.0",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "1134"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "EAB3",
+  "output": {
+   "merchantType": null,
+   "bakongAccountID": null,
+   "accountInformation": null,
+   "merchantID": null,
+   "acquiringBank": null,
+   "billNumber": null,
+   "mobileNumber": null,
+   "storeLabel": null,
+   "terminalLabel": null,
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": null,
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": null,
+   "pointofInitiationMethod": null,
+   "unionPayMerchant": null,
+   "merchantCategoryCode": null,
+   "transactionCurrency": null,
+   "transactionAmount": null,
+   "countryCode": null,
+   "merchantName": null,
+   "merchantCity": null,
+   "crc": null
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230190015",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "",
+   "accountInformation": null,
+   "merchantID": null,
+   "acquiringBank": null,
+   "billNumber": null,
+   "mobileNumber": null,
+   "storeLabel": null,
+   "terminalLabel": null,
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": null,
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": null,
+   "transactionCurrency": null,
+   "transactionAmount": null,
+   "countryCode": null,
+   "merchantName": null,
+   "merchantCity": null,
+   "crc": null
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "10263041234",
+  "output": {
+   "merchantType": null,
+   "bakongAccountID": null,
+   "accountInformation": null,
+   "merchantID": null,
+   "acquiringBank": null,
+   "billNumber": null,
+   "mobileNumber": null,
+   "storeLabel": null,
+   "terminalLabel": null,
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": null,
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": null,
+   "pointofInitiationMethod": null,
+   "unionPayMerchant": null,
+   "merchantCategoryCode": null,
+   "transactionCurrency": null,
+   "transactionAmount": null,
+   "countryCode": null,
+   "merchantName": null,
+   "merchantCity": null,
+   "crc": null
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "63041234",
+  "output": {
+   "merchantType": null,
+   "bakongAccountID": null,
+   "accountInformation": null,
+   "merchantID": null,
+   "acquiringBank": null,
+   "billNumber": null,
+   "mobileNumber": null,
+   "storeLabel": null,
+   "terminalLabel": null,
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": null,
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": null,
+   "pointofInitiationMethod": null,
+   "unionPayMerchant": null,
+   "merchantCategoryCode": null,
+   "transactionCurrency": null,
+   "transactionAmount": null,
+   "countryCode": null,
+   "merchantName": null,
+   "merchantCity": null,
+   "crc": "1234"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230410015john_smith@devb01061234560208Dev Bank53038405204599954035.05802KH5916john smith actor6010Phnom Penh62150111Invoice#06999170013161343857589263040437",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "john_smith@devb",
+   "accountInformation": null,
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "Invoice#069",
+   "mobileNumber": null,
+   "storeLabel": null,
+   "terminalLabel": null,
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1613438575892",
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "5.0",
+   "countryCode": "KH",
+   "merchantName": "john smith actor",
+   "merchantCity": "Phnom Penh",
+   "crc": "0437"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021252045999530384054035.05802KH5916john smith actor6010Phnom Penh62150111Invoice#06999170013161343857589263042494",
+  "output": {
+   "merchantType": null,
+   "bakongAccountID": null,
+   "accountInformation": null,
+   "merchantID": null,
+   "acquiringBank": null,
+   "billNumber": "Invoice#069",
+   "mobileNumber": null,
+   "storeLabel": null,
+   "terminalLabel": null,
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1613438575892",
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "5.0",
+   "countryCode": "KH",
+   "merchantName": "john smith actor",
+   "merchantCity": "Phnom Penh",
+   "crc": "2494"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "000201010212301900151234567890123456304D807",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "123456789012345",
+   "accountInformation": null,
+   "merchantID": null,
+   "acquiringBank": null,
+   "billNumber": null,
+   "mobileNumber": null,
+   "storeLabel": null,
+   "terminalLabel": null,
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": null,
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": null,
+   "transactionCurrency": null,
+   "transactionAmount": null,
+   "countryCode": null,
+   "merchantName": null,
+   "merchantCity": null,
+   "crc": "D807"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230440040123456789012345678901234567890123456789063041747",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "1234567890123456789012345678901234567890",
+   "accountInformation": null,
+   "merchantID": null,
+   "acquiringBank": null,
+   "billNumber": null,
+   "mobileNumber": null,
+   "storeLabel": null,
+   "terminalLabel": null,
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": null,
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": null,
+   "transactionCurrency": null,
+   "transactionAmount": null,
+   "countryCode": null,
+   "merchantName": null,
+   "merchantCity": null,
+   "crc": "1747"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "000301001021230190015john_smith@devb630493FD",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "john_smith@devb",
+   "accountInformation": null,
+   "merchantID": null,
+   "acquiringBank": null,
+   "billNumber": null,
+   "mobileNumber": null,
+   "storeLabel": null,
+   "terminalLabel": null,
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": null,
+   "expirationTimestamp": null,
+   "payloadFormatIndicator": "010",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": null,
+   "transactionCurrency": null,
+   "transactionAmount": null,
+   "countryCode": null,
+   "merchantName": null,
+   "merchantCity": null,
+   "crc": "93FD"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantCategoryCode": "0000",
+   "currency": 116
+  },
+  "output": {
+   "qr": "00020101021129180014jonhsmith@nbcq5204000053031165802KH5910Jonh Smith6010Phnom Penh63045D73",
+   "md5": "c6d78756ec9a2b82f70ef3b36c05aa20"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantCategoryCode": "0000",
+   "currency": 116
+  },
+  "output": {
+   "qr": "00020101021129180014jonhsmith@nbcq5204000053031165802KH5910Jonh Smith6010Phnom Penh63045D73",
+   "md5": "c6d78756ec9a2b82f70ef3b36c05aa20"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantCategoryCode": "1234",
+   "currency": 116
+  },
+  "output": {
+   "qr": "00020101021129180014jonhsmith@nbcq5204123453031165802KH5910Jonh Smith6010Phnom Penh6304E055",
+   "md5": "9d122257dcc4217ba45431f31d187ccf"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantCategoryCode": "1234",
+   "currency": 116
+  },
+  "output": {
+   "qr": "00020101021129180014jonhsmith@nbcq5204123453031165802KH5910Jonh Smith6010Phnom Penh6304E055",
+   "md5": "9d122257dcc4217ba45431f31d187ccf"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantCategoryCode": "1A2B",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 51
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantCategoryCode": "1A2B",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 51
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantCategoryCode": "-100",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 51
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantCategoryCode": "-100",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 51
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "merchantCategoryCode": "0000",
+   "currency": 116
+  },
+  "output": {
+   "qr": "00020101021130400014jonhsmith@nbcq01061234560208Dev Bank5204000053031165802KH5910Jonh Smith6010Phnom Penh630483B1",
+   "md5": "c3cd5790709b2826329322d7e1c7f84e"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "merchantCategoryCode": "0000",
+   "currency": 116
+  },
+  "output": {
+   "qr": "00020101021130400014jonhsmith@nbcq01061234560208Dev Bank5204000053031165802KH5910Jonh Smith6010Phnom Penh630483B1",
+   "md5": "c3cd5790709b2826329322d7e1c7f84e"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "merchantCategoryCode": "1234",
+   "currency": 116
+  },
+  "output": {
+   "qr": "00020101021130400014jonhsmith@nbcq01061234560208Dev Bank5204123453031165802KH5910Jonh Smith6010Phnom Penh63043E97",
+   "md5": "4b107a182cb45d71427b7a1b5ea722fb"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "merchantCategoryCode": "1234",
+   "currency": 116
+  },
+  "output": {
+   "qr": "00020101021130400014jonhsmith@nbcq01061234560208Dev Bank5204123453031165802KH5910Jonh Smith6010Phnom Penh63043E97",
+   "md5": "4b107a182cb45d71427b7a1b5ea722fb"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "merchantCategoryCode": "1A2B",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 51
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "merchantCategoryCode": "1A2B",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 51
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "merchantCategoryCode": "-100",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 51
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "merchantCategoryCode": "-100",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 51
+  }
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021129180014jonhsmith@nbcq52041A2B53031165802KH5910Jonh Smith6010Phnom Penh6304F7FD",
+  "output": false,
+  "reason": 51
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021129180014jonhsmith@nbcq52041A2B53031165802KH5910Jonh Smith6010Phnom Penh6304F7FD",
+  "output": false,
+  "reason": 51
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021129180014jonhsmith@nbcq5204-10053031165802KH5910Jonh Smith6010Phnom Penh6304038A",
+  "output": false,
+  "reason": 51
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021129180014jonhsmith@nbcq5204-10053031165802KH5910Jonh Smith6010Phnom Penh6304038A",
+  "output": false,
+  "reason": 51
+ },
+ {
+  "kind": "decodeNonKhqr",
+  "now": 1700000000000,
+  "input": "00020101021115231234567812345678901234530400014jonhsmith@nbcq01061234560208Dev Bank5204599953031165802KH5910Jonh Smith6010Phnom Penh9917001316873168216096310abcdef",
+  "output": {
+   "15": "12345678123456789012345",
+   "30": {
+    "00": "jonhsmith@nbcq",
+    "01": "123456",
+    "02": "Dev Bank"
+   },
+   "52": "5999",
+   "53": "116",
+   "58": "KH",
+   "59": "Jonh Smith",
+   "60": "Phnom Penh",
+   "99": {
+    "00": "1687316821609"
+   },
+   "00": "01",
+   "01": "11"
+  }
+ },
+ {
+  "kind": "decodeNonKhqr",
+  "now": 1700000000000,
+  "input": "002",
+  "output": {}
+ },
+ {
+  "kind": "decodeNonKhqr",
+  "now": 1700000000000,
+  "input": "00020101021115231234567812345678901234530400014jonhsmith@nbcq01061234560208Dev Bank5206599953031165802KH5910Jonh Smith6010Phnom Penh9917001316873168216096304D82B",
+  "output": {
+   "15": "12345678123456789012345",
+   "30": {
+    "00": "jonhsmith@nbcq",
+    "01": "123456",
+    "02": "Dev Bank"
+   },
+   "52": "599953",
+   "00": "01",
+   "01": "11",
+   "03": "65802KH5910"
+  }
+ },
+ {
+  "kind": "decodeNonKhqr",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb52045999530311654065000.05802KH5910jonh smith6010Phnom Penh62360109#INV-20030313Coffee Klaing0702#299170013161302797275763049ACF",
+  "output": {
+   "29": {
+    "00": "john_smith@devb"
+   },
+   "52": "5999",
+   "53": "116",
+   "54": "5000.0",
+   "58": "KH",
+   "59": "jonh smith",
+   "60": "Phnom Penh",
+   "62": {
+    "01": "#INV-2003",
+    "03": "Coffee Klaing",
+    "07": "#2"
+   },
+   "63": "9ACF",
+   "99": {
+    "00": "1613027972757"
+   },
+   "00": "01",
+   "01": "12"
+  }
+ },
+ {
+  "kind": "decodeNonKhqr",
+  "now": 1700000000000,
+  "input": "00020101021115140110555555555530400014jonhsmith@nbcq01061234560208Dev Bank5204599953031165802KH5910Jonh Smith6010Phnom Penh9924011316873168216090203TTT6304EC18",
+  "output": {
+   "15": "01105555555555",
+   "30": {
+    "00": "jonhsmith@nbcq",
+    "01": "123456",
+    "02": "Dev Bank"
+   },
+   "52": "5999",
+   "53": "116",
+   "58": "KH",
+   "59": "Jonh Smith",
+   "60": "Phnom Penh",
+   "63": "EC18",
+   "99": {
+    "01": "1687316821609",
+    "02": "TTT"
+   },
+   "00": "01",
+   "01": "11"
+  }
+ },
+ {
+  "kind": "decodeNonKhqr",
+  "now": 1700000000000,
+  "input": "00020101021129370009khqr@aclb011009686507250206ACLEDA392000118551121508001014520420005802KH53031165912Chhuon Vutha6010Phnom Penh62420210096865072510020111070103ABC99070103ABC65240003ABC01020199070103ABC99340013171740156077901020199070103ABC63046995",
+  "output": {
+   "29": {
+    "00": "khqr@aclb",
+    "01": "0968650725",
+    "02": "ACLEDA"
+   },
+   "39": {
+    "00": "85511215080",
+    "01": "4"
+   },
+   "52": "2000",
+   "53": "116",
+   "58": "KH",
+   "59": "Chhuon Vutha",
+   "60": "Phnom Penh",
+   "62": {
+    "10": "01",
+    "11": "0103ABC",
+    "99": {
+     "01": "ABC"
+    },
+    "02": "0968650725"
+   },
+   "63": "6995",
+   "65": "0003ABC01020199070103ABC",
+   "99": {
+    "99": "0103ABC",
+    "00": "1717401560779",
+    "01": "01"
+   },
+   "00": "01",
+   "01": "11"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021229460015john_smith@devb0111855122334550208Dev Bank52045999530384054031005802KH5910John Smith6010PHNOM PENH62670106#123450211855122334550311Coffee Shop0709Cashier_10810Buy coffee64280002km0108ចន ស្មីន0206ភ្នំពញ993400131726821915797011317268220357976304B73E",
+  "output": {
+   "merchantType": "29",
+   "bakongAccountID": "john_smith@devb",
+   "accountInformation": "85512233455",
+   "merchantID": null,
+   "acquiringBank": "Dev Bank",
+   "billNumber": "#12345",
+   "mobileNumber": "85512233455",
+   "storeLabel": "Coffee Shop",
+   "terminalLabel": "Cashier_1",
+   "purposeOfTransaction": "Buy coffee",
+   "languagePreference": "km",
+   "merchantNameAlternateLanguage": "ចន ស្មីន",
+   "merchantCityAlternateLanguage": "ភ្នំពញ",
+   "creationTimestamp": "1726821915797",
+   "expirationTimestamp": "1726822035797",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "100",
+   "countryCode": "KH",
+   "merchantName": "John Smith",
+   "merchantCity": "PHNOM PENH",
+   "crc": "B73E"
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230350009khqr@devb01061234560208Dev Bank52045999530384054031005802KH5910John Smith6010PHNOM PENH62670106#123450211855122334550311Coffee Shop0709Cashier_10810Buy coffee64280002km0108ចន ស្មីន0206ភ្នំពញ993400131726822962612011317268230826126304A560",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "khqr@devb",
+   "accountInformation": null,
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "#12345",
+   "mobileNumber": "85512233455",
+   "storeLabel": "Coffee Shop",
+   "terminalLabel": "Cashier_1",
+   "purposeOfTransaction": "Buy coffee",
+   "languagePreference": "km",
+   "merchantNameAlternateLanguage": "ចន ស្មីន",
+   "merchantCityAlternateLanguage": "ភ្នំពញ",
+   "creationTimestamp": "1726822962612",
+   "expirationTimestamp": "1726823082612",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "100",
+   "countryCode": "KH",
+   "merchantName": "John Smith",
+   "merchantCity": "PHNOM PENH",
+   "crc": "A560"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "johnsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "currency": 840,
+   "amount": 101.3
+  },
+  "output": {
+   "errorCode": 45
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "johnsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "currency": 840,
+   "amount": 101.3
+  },
+  "output": {
+   "errorCode": 45
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "johnsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "currency": 840,
+   "amount": 101.3,
+   "expirationTimestamp": 1727260807000
+  },
+  "output": {
+   "qr": "00020101021229180014johnsmith@devb5204599953038405406101.305802KH5910Jonh Smith6010PHNOM PENH9934001317000000000000113172726080700063047EAC",
+   "md5": "b39511e63c9f14e99b9e63bcd8b93d0a"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "johnsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "currency": 840,
+   "amount": 101.3,
+   "expirationTimestamp": 1727260807000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "johnsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "currency": 840,
+   "amount": 101.3,
+   "expirationTimestamp": 1727260807
+  },
+  "output": {
+   "errorCode": 49
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "johnsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "currency": 840,
+   "amount": 101.3,
+   "expirationTimestamp": 1727260807
+  },
+  "output": {
+   "errorCode": 49
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "johnsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "currency": 840,
+   "amount": 102.3
+  },
+  "output": {
+   "errorCode": 45
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "johnsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "currency": 840,
+   "amount": 102.3
+  },
+  "output": {
+   "errorCode": 45
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "johnsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "currency": 840,
+   "amount": 102.3,
+   "expirationTimestamp": 1727260807000
+  },
+  "output": {
+   "qr": "00020101021230400014johnsmith@devb01061234560208Dev Bank5204599953038405406102.305802KH5910Jonh Smith6010PHNOM PENH993400131700000000000011317272608070006304EEAB",
+   "md5": "010dd8d07a6d2abd14004e5f6186503a"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "johnsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "currency": 840,
+   "amount": 102.3,
+   "expirationTimestamp": 1727260807000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "johnsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "currency": 840,
+   "amount": 102.3,
+   "expirationTimestamp": 1727260807
+  },
+  "output": {
+   "errorCode": 49
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "johnsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "currency": 840,
+   "amount": 102.3,
+   "expirationTimestamp": 1727260807
+  },
+  "output": {
+   "errorCode": 49
+  }
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021329180014vandoeurn@devb52045999530384054031015802KH5909Vandoeurn6010Phnom Penh993400131727249364974011317272494849746304DCEF",
+  "output": false,
+  "reason": 48
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021329180014vandoeurn@devb52045999530384054031015802KH5909Vandoeurn6010Phnom Penh993400131727249364974011317272494849746304DCEF",
+  "output": false,
+  "reason": 48
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229180014vandoeurn@devb5204599953038405802KH5909Vandoeurn6010Phnom Penh993400131727249364974011317272494849746304B6F4",
+  "output": false,
+  "reason": 47
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229180014vandoeurn@devb5204599953038405802KH5909Vandoeurn6010Phnom Penh993400131727249364974011317272494849746304B6F4",
+  "output": false,
+  "reason": 47
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229180014vandoeurn@devb52045999530384054031015802KH5909Vandoeurn6010Phnom Penh9934001317272493649740113172724948497463047BD0",
+  "output": true,
+  "reason": null
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229180014vandoeurn@devb52045999530384054031015802KH5909Vandoeurn6010Phnom Penh9934001317272493649740113172724948497463047BD0",
+  "output": false,
+  "reason": 46
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021215311974011600520446ACLB1000231208129200016chantha_dev@ftcc520459995303116540410005802KH5911Chantha Dev6010Phnom Penh63046011",
+  "output": false,
+  "reason": 45
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021215311974011600520446ACLB1000231208129200016chantha_dev@ftcc520459995303116540410005802KH5911Chantha Dev6010Phnom Penh63046011",
+  "output": false,
+  "reason": 45
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021215311974011600520446ACLB1000231208129200016chantha_dev@ftcc52045999530311654034005802KH5911Chantha Dev6010Phnom Penh99170013172974008531463046EEC",
+  "output": false,
+  "reason": 45
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021215311974011600520446ACLB1000231208129200016chantha_dev@ftcc52045999530311654034005802KH5911Chantha Dev6010Phnom Penh99170013172974008531463046EEC",
+  "output": false,
+  "reason": 45
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229220018sopheak_leng2@ftcc520459995303116540410005802KH5912sopheak leng6010Phnom Penh9936001411732270085311011417323270145310630445D7",
+  "output": false,
+  "reason": 49
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229220018sopheak_leng2@ftcc520459995303116540410005802KH5912sopheak leng6010Phnom Penh9936001411732270085311011417323270145310630445D7",
+  "output": false,
+  "reason": 49
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "billNumber": "INV-2021-07-65822",
+   "currency": 840,
+   "amount": 1,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229180014jonhsmith@nbcq520459995303840540115802KH5910Jonh Smith6010PHNOM PENH62210117INV-2021-07-65822993400131700000000000011317000000600006304FFD7",
+   "md5": "779461eaba2f5d39135a6e5e8adb2b1c"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "billNumber": "INV-2021-07-65822",
+   "currency": 840,
+   "amount": 1,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229180014jonhsmith@nbcq5204599953031165405500005802KH5910Jonh Smith6010Phnom Penh6215021185512345678993400131700000000000011317000000600006304B32A",
+   "md5": "782d218e39a98afb561513c305d63f1b"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "storeLabel": "BKK-1",
+   "currency": 116,
+   "amount": 50000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229180014jonhsmith@nbcq5204599953031165405500005802KH5910Jonh Smith6010Phnom Penh62090305BKK-1993400131700000000000011317000000600006304BE32",
+   "md5": "b3d1a769c92bed1afbfb539cfc15720e"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "storeLabel": "BKK-1",
+   "currency": 116,
+   "amount": 50000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229180014jonhsmith@nbcq5204599953031165405500005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304C480",
+   "md5": "68fc6fc0a2b825e07d41550353566cb8"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank5204599953031165405500005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304D8E1",
+   "md5": "55c571d13506a00be7366b955fa107f1"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229300014jonhsmith@nbcq0208Dev Bank5204599953031165405500005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-1070601234599340013170000000000001131700000060000630495B9",
+   "md5": "9801047854b95d9d361e49897f105d52"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229310014jonhsmith@nbcq01090123456785204599953031165405500005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304715B",
+   "md5": "42856126c96501298e99ac4f8d4a6326"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "languagePreference": "km",
+   "merchantNameAlternateLanguage": "ចន ស្មីន",
+   "merchantCityAlternateLanguage": "សៀមរាប",
+   "currency": 116
+  },
+  "output": {
+   "qr": "00020101021129180014jonhsmith@nbcq5204599953031165802KH5910Jonh Smith6009Siam Reap64280002km0108ចន ស្មីន0206សៀមរាប6304A8B1",
+   "md5": "95863987758c3bfb7fd45f729d45ea3e"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "languagePreference": "km",
+   "merchantNameAlternateLanguage": "ចន ស្មីន",
+   "merchantCityAlternateLanguage": "សៀមរាប",
+   "currency": 116
+  },
+  "output": {
+   "qr": "00020101021129180014jonhsmith@nbcq5204599953031165802KH5910Jonh Smith6009Siam Reap64280002km0108ចន ស្មីន0206សៀមរាប6304A8B1",
+   "md5": "95863987758c3bfb7fd45f729d45ea3e"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "mobileNumber": "85512345678",
+   "purposeOfTransaction": "Testing",
+   "currency": 116
+  },
+  "output": {
+   "qr": "00020101021129180014jonhsmith@nbcq5204599953031165802KH5910Jonh Smith6010Phnom Penh62260211855123456780807Testing6304A586",
+   "md5": "3c0969d210aef5139859c45a1d568571"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "mobileNumber": "85512345678",
+   "purposeOfTransaction": "Testing",
+   "currency": 116
+  },
+  "output": {
+   "qr": "00020101021129180014jonhsmith@nbcq5204599953031165802KH5910Jonh Smith6010Phnom Penh62260211855123456780807Testing6304A586",
+   "md5": "3c0969d210aef5139859c45a1d568571"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank52045999530311654031005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304D229",
+   "md5": "85e77c87f167d35682d68ce31723d1f4"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank52045999530311654031005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304D229",
+  "output": {
+   "merchantType": "29",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": "012345678",
+   "merchantID": null,
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "116",
+   "transactionAmount": "100",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "D229"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 9999999999,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank520459995303116541099999999995802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304D9E1",
+   "md5": "12b4c2fe294a174988e1176edbeb4e6b"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 9999999999,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank520459995303116541099999999995802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304D9E1",
+  "output": {
+   "merchantType": "29",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": "012345678",
+   "merchantID": null,
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "116",
+   "transactionAmount": "9999999999",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "D9E1"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 10000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank5204599953031165405100005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304D35A",
+   "md5": "f95e06eb923bd22b79ca8a491e8a5777"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 10000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank5204599953031165405100005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304D35A",
+  "output": {
+   "merchantType": "29",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": "012345678",
+   "merchantID": null,
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "116",
+   "transactionAmount": "10000",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "D35A"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1.12,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank52045999530384054041.125802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-1070601234599340013170000000000001131700000060000630494D5",
+   "md5": "e2947fab9093444129d363c8ded6193a"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1.12,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank52045999530384054041.125802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-1070601234599340013170000000000001131700000060000630494D5",
+  "output": {
+   "merchantType": "29",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": "012345678",
+   "merchantID": null,
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "1.12",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "94D5"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank520459995303840540410005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304ECA7",
+   "md5": "5077553801631842d859ece732e2ec3a"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank520459995303840540410005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304ECA7",
+  "output": {
+   "merchantType": "29",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": "012345678",
+   "merchantID": null,
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "1000",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "ECA7"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.11,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank5204599953038405406100.115802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063048DD3",
+   "md5": "bf7bead327f63d1bac1acbf7742a25f2"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.11,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank5204599953038405406100.115802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063048DD3",
+  "output": {
+   "merchantType": "29",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": "012345678",
+   "merchantID": null,
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "100.11",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "8DD3"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.12,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank5204599953038405406100.125802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063041F9F",
+   "md5": "378d7fe2566343d7ab30fb1fbe0401f5"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.12,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank5204599953038405406100.125802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063041F9F",
+  "output": {
+   "merchantType": "29",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": "012345678",
+   "merchantID": null,
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "100.12",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "1F9F"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 12345678901,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank5204599953038405411123456789015802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-1070601234599340013170000000000001131700000060000630491BC",
+   "md5": "76a24780650e5065833b595e03094428"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 12345678901,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank5204599953038405411123456789015802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-1070601234599340013170000000000001131700000060000630491BC",
+  "output": {
+   "merchantType": "29",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": "012345678",
+   "merchantID": null,
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "12345678901",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "91BC"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 9999999999.99,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank52045999530384054139999999999.995802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063041DCB",
+   "md5": "ac4ef93da5f423d937c2d1e01d369e6b"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 9999999999.99,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank52045999530384054139999999999.995802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063041DCB",
+  "output": {
+   "merchantType": "29",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": "012345678",
+   "merchantID": null,
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "9999999999.99",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "1DCB"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "ចន ស្មីន",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank52045999530311654031005802KH5908ចន ស្មីន6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063043288",
+   "md5": "1f901aa2b2980d9e156a8dfa0ba239ff"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "ចន ស្មីន",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021229430014jonhsmith@nbcq01090123456780208Dev Bank52045999530311654031005802KH5908ចន ស្មីន6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063043288",
+  "output": {
+   "merchantType": "29",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": "012345678",
+   "merchantID": null,
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "116",
+   "transactionAmount": "100",
+   "countryCode": "KH",
+   "merchantName": "ចន ស្មីន",
+   "merchantCity": "Siam Reap",
+   "crc": "3288"
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "johnsmith00123456789012345678912345@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "billNumber": "INV-2021-07-65822",
+   "currency": 840,
+   "amount": 1
+  },
+  "output": {
+   "errorCode": 6
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "johnsmith00123456789012345678912345@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "PHNOM PENH",
+   "billNumber": "INV-2021-07-65822",
+   "currency": 840,
+   "amount": 1
+  },
+  "output": {
+   "errorCode": 6
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmithnbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 3
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmithnbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 3
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "storeLabel": "BKK-1",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 1
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "storeLabel": "BKK-1",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 1
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "012345678901234567890123456789",
+   "merchantCity": "Siam Reap",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 7
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "012345678901234567890123456789",
+   "merchantCity": "Siam Reap",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 7
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 123456789012345.67
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 123456789012345.67
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reappppppppppppppppppppppppppp",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 21
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reappppppppppppppppppppppppppp",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 21
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "012345678901234567890123456789",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 10
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "012345678901234567890123456789",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 10
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678901234567890123456789",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 34
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678901234567890123456789",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 34
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "012345678901234567890123456789",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 11
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "012345678901234567890123456789",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 11
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345678901234567890123456789",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 12
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345678901234567890123456789",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 12
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Advanced Bank of Asia Limited Cambodia",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 33
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Advanced Bank of Asia Limited Cambodia",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 33
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678901234567890123456789897",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 35
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "accountInformation": "012345678901234567890123456789897",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 35
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1.234
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1.234
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": -1000
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": -1000
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.00111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.00111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.0000000000111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.0000000000111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1234567890123.01
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1234567890123.01
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 999999999999.9999
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 999999999999.9999
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 12345678901234
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 12345678901234
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 1.1234567890123457
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 1.1234567890123457
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": -1000
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": -1000
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100.00111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100.00111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100.0000000000111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100.0000000000111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 999999999999.9999
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 999999999999.9999
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 1.1
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 1.1
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "upiMerchantAccount": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a ultrices nunc. Quisque in sem fringilla, ullamcorper est vel",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 43
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "upiMerchantAccount": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a ultrices nunc. Quisque in sem fringilla, ullamcorper est vel",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 43
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "languagePreference": "Khmer",
+   "merchantNameAlternateLanguage": "Jonh Smith",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 38
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "languagePreference": "Khmer",
+   "merchantNameAlternateLanguage": "Jonh Smith",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 38
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "languagePreference": "km",
+   "merchantNameAlternateLanguage": "Lorem ipsum dolor sit amet",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 40
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "languagePreference": "km",
+   "merchantNameAlternateLanguage": "Lorem ipsum dolor sit amet",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 40
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "languagePreference": "km",
+   "merchantNameAlternateLanguage": "Lorem ipsum",
+   "merchantCityAlternateLanguage": "Lorem ipsum dolor",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 41
+  }
+ },
+ {
+  "kind": "generateIndividual",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "languagePreference": "km",
+   "merchantNameAlternateLanguage": "Lorem ipsum",
+   "merchantCityAlternateLanguage": "Lorem ipsum dolor",
+   "currency": 116
+  },
+  "output": {
+   "errorCode": 41
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230400014jonhsmith@devb01061234560208Dev Bank5204599953031165405500005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-1070601234599340013170000000000001131700000060000630471C3",
+   "md5": "6ee09c97190f9ae514a9e930e7f87e15"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 10,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230400014jonhsmith@devb01061234560208Dev Bank5204599953038405402105802KH5910Jonh Smith6010Phnom Penh62450117INV-2021-07-658220211855123456780305BKK-1993400131700000000000011317000000600006304187D",
+   "md5": "4e71298e165cb76b3a00f0ec2bc59a53"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 10,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 10,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230400014jonhsmith@devb01061234560208Dev Bank5204599953038405402105802KH5910Jonh Smith6010Phnom Penh62360117INV-2021-07-6582202118551234567899340013170000000000001131700000060000630488CA",
+   "md5": "a4361128e20d0899680afd716b881978"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 10,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 10,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230400014jonhsmith@devb01061234560208Dev Bank5204599953038405402105802KH5910Jonh Smith6010Phnom Penh6215021185512345678993400131700000000000011317000000600006304A762",
+   "md5": "ffda4c9de5dbe88ab2504eae12905aa7"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 10,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "currency": 840,
+   "amount": 10,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230400014jonhsmith@devb01061234560208Dev Bank5204599953038405402105802KH5910Jonh Smith6010Phnom Penh9934001317000000000000113170000006000063041AE7",
+   "md5": "9390aa8514aeb7067f1b60ae118fa7c5"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "currency": 840,
+   "amount": 10,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "currency": 840
+  },
+  "output": {
+   "qr": "00020101021130400014jonhsmith@devb01061234560208Dev Bank5204599953038405802KH5910Jonh Smith6010Phnom Penh630484CA",
+   "md5": "e52e50b99565a9455776ccaf4ecbd3c6"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "currency": 840
+  },
+  "output": {
+   "qr": "00020101021130400014jonhsmith@devb01061234560208Dev Bank5204599953038405802KH5910Jonh Smith6010Phnom Penh630484CA",
+   "md5": "e52e50b99565a9455776ccaf4ecbd3c6"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave52045999530311654031005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304E1BC",
+   "md5": "b45a8a3b9fe34e16ee8d71d9d889a2cc"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave52045999530311654031005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304E1BC",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": null,
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "116",
+   "transactionAmount": "100",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "E1BC"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 9999999999,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave520459995303116541099999999995802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304D54B",
+   "md5": "636e42d698f804afbe628004f08bf433"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 9999999999,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave520459995303116541099999999995802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304D54B",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": null,
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "116",
+   "transactionAmount": "9999999999",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "D54B"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 10000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave5204599953031165405100005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063045080",
+   "md5": "6e7c1e53b9f18a732c64e7304c68969c"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 10000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave5204599953031165405100005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063045080",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": null,
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "116",
+   "transactionAmount": "10000",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "5080"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1.12,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave52045999530384054041.125802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-1070601234599340013170000000000001131700000060000630407E5",
+   "md5": "4c3029b3645a0363926f455615099753"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1.12,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave52045999530384054041.125802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-1070601234599340013170000000000001131700000060000630407E5",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": null,
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "1.12",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "07E5"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave520459995303840540410005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063047F97",
+   "md5": "cddbe5d930d1a7d5df66986f5de56aad"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1000,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave520459995303840540410005802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063047F97",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": null,
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "1000",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "7F97"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.11,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave5204599953038405406100.115802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304F638",
+   "md5": "73aac568e8f6b9d431c11c30cadd9440"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.11,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave5204599953038405406100.115802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304F638",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": null,
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "100.11",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "F638"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.12,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave5204599953038405406100.125802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063046474",
+   "md5": "e6f92ba44fae15ff404d502a7b7daa98"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.12,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave5204599953038405406100.125802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063046474",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": null,
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "100.12",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "6474"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 12345678901,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave5204599953038405411123456789015802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304FA30",
+   "md5": "86a627fe643c820f10e4bfb3cf57cee9"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 12345678901,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave5204599953038405411123456789015802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-10706012345993400131700000000000011317000000600006304FA30",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": null,
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "12345678901",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "FA30"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 9999999999.99,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave52045999530384054139999999999.995802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063049A1F",
+   "md5": "cb483585b6e1389a385a8039e1a48b69"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 9999999999.99,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave52045999530384054139999999999.995802KH5910Jonh Smith6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063049A1F",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": null,
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "840",
+   "transactionAmount": "9999999999.99",
+   "countryCode": "KH",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "crc": "9A1F"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "ចន ស្មីន",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "qr": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave52045999530311654031005802KH5908ចន ស្មីន6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063043B7E",
+   "md5": "88063a98fe3ee46da9761de371c0c481"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "ចន ស្មីន",
+   "merchantCity": "Siam Reap",
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100,
+   "expirationTimestamp": 1700000060000
+  },
+  "output": {
+   "errorCode": 50
+  }
+ },
+ {
+  "kind": "decode",
+  "now": 1700000000000,
+  "input": "00020101021230340014jonhsmith@nbcq0104Dave0204Dave52045999530311654031005802KH5908ចន ស្មីន6009Siam Reap62550117INV-2021-07-658220211855123456780305BKK-107060123459934001317000000000000113170000006000063043B7E",
+  "output": {
+   "merchantType": "30",
+   "bakongAccountID": "jonhsmith@nbcq",
+   "accountInformation": null,
+   "merchantID": "Dave",
+   "acquiringBank": "Dave",
+   "billNumber": "INV-2021-07-65822",
+   "mobileNumber": "85512345678",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "purposeOfTransaction": null,
+   "languagePreference": null,
+   "merchantNameAlternateLanguage": null,
+   "merchantCityAlternateLanguage": null,
+   "creationTimestamp": "1700000000000",
+   "expirationTimestamp": "1700000060000",
+   "payloadFormatIndicator": "01",
+   "pointofInitiationMethod": "12",
+   "unionPayMerchant": null,
+   "merchantCategoryCode": "5999",
+   "transactionCurrency": "116",
+   "transactionAmount": "100",
+   "countryCode": "KH",
+   "merchantName": "ចន ស្មីន",
+   "merchantCity": "Siam Reap",
+   "crc": "3B7E"
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "johnsmith00123456789012345678912345@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "currency": 840,
+   "amount": 1
+  },
+  "output": {
+   "errorCode": 6
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "johnsmith00123456789012345678912345@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "currency": 840,
+   "amount": 1
+  },
+  "output": {
+   "errorCode": 6
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmithnbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 3
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmithnbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 3
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "storeLabel": "BKK-1",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 1
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "storeLabel": "BKK-1",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 1
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smithhhhhhhhhhhhhhhhhhhhhhhh",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 7
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smithhhhhhhhhhhhhhhhhhhhhhhh",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 7
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 123456789012345.67
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "accountInformation": "012345678",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 123456789012345.67
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reappppppppppppppppppppppppppp",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 21
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reappppppppppppppppppppppppppp",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "INV-2021-07-65822",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 21
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "012345678901234567890123456789",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 10
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "012345678901234567890123456789",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 10
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678901234567890123456789",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 34
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678901234567890123456789",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 34
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "012345678901234567890123456789",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 11
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "012345678901234567890123456789",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 11
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345678901234567890123456789",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 12
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@devb",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Phnom Penh",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345678901234567890123456789",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 50000
+  },
+  "output": {
+   "errorCode": 12
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1.234
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1.234
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": -1000
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": -1000
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.00111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.00111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.0000000000111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 100.0000000000111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1234567890123.01
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 1234567890123.01
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 999999999999.9999
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 840,
+   "amount": 999999999999.9999
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 1.1234567890123457
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 1.1234567890123457
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": -1000
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": -1000
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100.00111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100.00111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100.0000000000111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 100.0000000000111
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 999999999999.9999
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 999999999999.9999
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1700000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 1.1
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "generateMerchant",
+  "now": 1800000000000,
+  "input": {
+   "bakongAccountID": "jonhsmith@nbcq",
+   "merchantName": "Jonh Smith",
+   "merchantCity": "Siam Reap",
+   "merchantID": "123456",
+   "acquiringBank": "Dev Bank",
+   "billNumber": "1234",
+   "storeLabel": "BKK-1",
+   "terminalLabel": "012345",
+   "mobileNumber": "85512345678",
+   "currency": 116,
+   "amount": 1.1
+  },
+  "output": {
+   "errorCode": 4
+  }
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229180014jonhsmith@nbcq520459995303116540750000.05802KH5910Jonh Smith6010Phnom Penh62150211855123456789934001317000000000000113170000006000063049A07",
+  "output": true,
+  "reason": null
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229180014jonhsmith@nbcq520459995303116540750000.05802KH5910Jonh Smith6010Phnom Penh62150211855123456789934001317000000000000113170000006000063049A07",
+  "output": false,
+  "reason": 46
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229180014jonhsmith@nbcq52045999530384054031.05802KH5910Jonh Smith6010PHNOM PENH62210117INV-2021-07-6582299340013170000000000001131700000060000630479AF",
+  "output": true,
+  "reason": null
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229180014jonhsmith@nbcq52045999530384054031.05802KH5910Jonh Smith6010PHNOM PENH62210117INV-2021-07-6582299340013170000000000001131700000060000630479AF",
+  "output": false,
+  "reason": 46
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230400014jonhsmith@devb01061234560208Dev Bank520459995303840540410.05802KH5910Jonh Smith6010Phnom Penh62360117INV-2021-07-658220211855123456789934001317000000000000113170000006000063045843",
+  "output": true,
+  "reason": null
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230400014jonhsmith@devb01061234560208Dev Bank520459995303840540410.05802KH5910Jonh Smith6010Phnom Penh62360117INV-2021-07-658220211855123456789934001317000000000000113170000006000063045843",
+  "output": false,
+  "reason": 46
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "6250070201030412340211855854989940117INV-2021-07-658226010PHNOM PENH5910Jonh Smith5802KH540115303840520459992926070412340014jonhsmith@nbcq0102120002019934001317000000000000113170000006000063045545",
+  "output": true,
+  "reason": null
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "6250070201030412340211855854989940117INV-2021-07-658226010PHNOM PENH5910Jonh Smith5802KH540115303840520459992926070412340014jonhsmith@nbcq0102120002019934001317000000000000113170000006000063045545",
+  "output": false,
+  "reason": 46
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021126200016coffeeklang@pras9934001317000000000000113170000006000063043407",
+  "output": false,
+  "reason": 5
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021126200016coffeeklang@pras9934001317000000000000113170000006000063043407",
+  "output": false,
+  "reason": 5
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "63046007993400131700000000000011317000000600006304589C",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "63046007993400131700000000000011317000000600006304589C",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "null99340013170000000000001131700000060000630437A6",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "null99340013170000000000001131700000060000630437A6",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "''9934001317000000000000113170000006000063040C89",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "''9934001317000000000000113170000006000063040C89",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "                   9934001317000000000000113170000006000063046732",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "                   9934001317000000000000113170000006000063046732",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "ABC99340013170000000000001131700000060000630490ED",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "ABC99340013170000000000001131700000060000630490ED",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "ABC     9934001317000000000000113170000006000063047F74",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "ABC     9934001317000000000000113170000006000063047F74",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "កខគឃង9934001317000000000000113170000006000063047CBC",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "កខគឃង9934001317000000000000113170000006000063047CBC",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021126150011jonhsmith@nbcq5204599953031165802KH5912Jonh Smith6010Phnom Penh993400131700000000000011317000000600006304F314",
+  "output": false,
+  "reason": 5
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021126150011jonhsmith@nbcq5204599953031165802KH5912Jonh Smith6010Phnom Penh993400131700000000000011317000000600006304F314",
+  "output": false,
+  "reason": 5
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "EAB39934001317000000000000113170000006000063040BE6",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "EAB39934001317000000000000113170000006000063040BE6",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015993400131700000000000011317000000600006304F320",
+  "output": false,
+  "reason": 47
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015993400131700000000000011317000000600006304F320",
+  "output": false,
+  "reason": 47
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "10263041234993400131700000000000011317000000600006304D644",
+  "output": false,
+  "reason": 5
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "10263041234993400131700000000000011317000000600006304D644",
+  "output": false,
+  "reason": 5
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "63041234993400131700000000000011317000000600006304FDDD",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "63041234993400131700000000000011317000000600006304FDDD",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230410015john_smith@devb01061234560208Dev Bank53038405204599954035.05802KH5916john smith actor6010Phnom Penh62150111Invoice#069993400131700000000000011317000000600006304BF7C",
+  "output": true,
+  "reason": null
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230410015john_smith@devb01061234560208Dev Bank53038405204599954035.05802KH5916john smith actor6010Phnom Penh62150111Invoice#069993400131700000000000011317000000600006304BF7C",
+  "output": false,
+  "reason": 46
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021252045999530384054035.05802KH5916john smith actor6010Phnom Penh62150111Invoice#0699934001317000000000000113170000006000063042556",
+  "output": false,
+  "reason": 5
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021252045999530384054035.05802KH5916john smith actor6010Phnom Penh62150111Invoice#0699934001317000000000000113170000006000063042556",
+  "output": false,
+  "reason": 5
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015123456789012345993400131700000000000011317000000600006304B956",
+  "output": false,
+  "reason": 47
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015123456789012345993400131700000000000011317000000600006304B956",
+  "output": false,
+  "reason": 47
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "000201010212304400401234567890123456789012345678901234567890993400131700000000000011317000000600006304153B",
+  "output": false,
+  "reason": 47
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "000201010212304400401234567890123456789012345678901234567890993400131700000000000011317000000600006304153B",
+  "output": false,
+  "reason": 47
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "000301001021230190015john_smith@devb993400131700000000000011317000000600006304BBF4",
+  "output": false,
+  "reason": 47
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "000301001021230190015john_smith@devb993400131700000000000011317000000600006304BBF4",
+  "output": false,
+  "reason": 47
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "01021230190015john_smith@devb52045999530384054035.05802KH5916john smith actor6010Phnom Penh62150111Invoice#069993400131700000000000011317000000600006304E0E5",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "01021230190015john_smith@devb52045999530384054035.05802KH5916john smith actor6010Phnom Penh62150111Invoice#069993400131700000000000011317000000600006304E0E5",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "000201010312330190015john_smith@devb9934001317000000000000113170000006000063042C2B",
+  "output": false,
+  "reason": 25
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "000201010312330190015john_smith@devb9934001317000000000000113170000006000063042C2B",
+  "output": false,
+  "reason": 25
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb5203999993400131700000000000011317000000600006304FB70",
+  "output": false,
+  "reason": 47
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb5203999993400131700000000000011317000000600006304FB70",
+  "output": false,
+  "reason": 47
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb530384054035.05802KH5916john smith actor6010Phnom Penh62150111Invoice#0699934001317000000000000113170000006000063044A27",
+  "output": false,
+  "reason": 25
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb530384054035.05802KH5916john smith actor6010Phnom Penh62150111Invoice#0699934001317000000000000113170000006000063044A27",
+  "output": false,
+  "reason": 25
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb5204599953048840993400131700000000000011317000000600006304F61A",
+  "output": false,
+  "reason": 47
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb5204599953048840993400131700000000000011317000000600006304F61A",
+  "output": false,
+  "reason": 47
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb5204599954035.05802KH5916john smith actor6010Phnom Penh62150111Invoice#069993400131700000000000011317000000600006304E99C",
+  "output": false,
+  "reason": 9
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb5204599954035.05802KH5916john smith actor6010Phnom Penh62150111Invoice#069993400131700000000000011317000000600006304E99C",
+  "output": false,
+  "reason": 9
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05803KKH993400131700000000000011317000000600006304F3A1",
+  "output": false,
+  "reason": 2
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05803KKH993400131700000000000011317000000600006304F3A1",
+  "output": false,
+  "reason": 2
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05916john smith actor6010Phnom Penh62150111Invoice#0699934001317000000000000113170000006000063045F2C",
+  "output": false,
+  "reason": 26
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05916john smith actor6010Phnom Penh62150111Invoice#0699934001317000000000000113170000006000063045F2C",
+  "output": false,
+  "reason": 26
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05802KH5916john smith actor601701234567890123456993400131700000000000011317000000600006304D933",
+  "output": false,
+  "reason": 21
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05802KH5916john smith actor601701234567890123456993400131700000000000011317000000600006304D933",
+  "output": false,
+  "reason": 21
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05802KH5916john smith actor600062150111Invoice#069993400131700000000000011317000000600006304466E",
+  "output": false,
+  "reason": 27
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05802KH5916john smith actor600062150111Invoice#069993400131700000000000011317000000600006304466E",
+  "output": false,
+  "reason": 27
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05802KH5916john smith actor62150111Invoice#069993400131700000000000011317000000600006304E3EF",
+  "output": false,
+  "reason": 27
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05802KH5916john smith actor62150111Invoice#069993400131700000000000011317000000600006304E3EF",
+  "output": false,
+  "reason": 27
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05802KH59307PL7EvxHpgpP4jT4uMgegaYqgv3Ehb6010Phnom Penh993400131700000000000011317000000600006304EAF5",
+  "output": false,
+  "reason": 7
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05802KH59307PL7EvxHpgpP4jT4uMgegaYqgv3Ehb6010Phnom Penh993400131700000000000011317000000600006304EAF5",
+  "output": false,
+  "reason": 7
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05802KH59006010Phnom Penh9934001317000000000000113170000006000063045D4B",
+  "output": false,
+  "reason": 2
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05802KH59006010Phnom Penh9934001317000000000000113170000006000063045D4B",
+  "output": false,
+  "reason": 2
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05802KH6010Phnom Penh62150111Invoice#069993400131700000000000011317000000600006304B293",
+  "output": false,
+  "reason": 2
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384054035.05802KH6010Phnom Penh62150111Invoice#069993400131700000000000011317000000600006304B293",
+  "output": false,
+  "reason": 2
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb52045999530311654065000.05802KH5910jonh smith6010Phnom Penh622701000313Coffee Klaing0702#29934001317000000000000113170000006000063048EFA",
+  "output": false,
+  "reason": 10
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb52045999530311654065000.05802KH5910jonh smith6010Phnom Penh622701000313Coffee Klaing0702#29934001317000000000000113170000006000063048EFA",
+  "output": false,
+  "reason": 10
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb52045999530311654065000.05802KH5910jonh smith6010Phnom Penh62230109#INV-200303000702#29934001317000000000000113170000006000063041C9D",
+  "output": false,
+  "reason": 11
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb52045999530311654065000.05802KH5910jonh smith6010Phnom Penh62230109#INV-200303000702#29934001317000000000000113170000006000063041C9D",
+  "output": false,
+  "reason": 11
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb52045999530311654065000.05802KH5910jonh smith6010Phnom Penh62340109#INV-20030313Coffee Klaing070099340013170000000000001131700000060000630499CB",
+  "output": false,
+  "reason": 12
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb52045999530311654065000.05802KH5910jonh smith6010Phnom Penh62340109#INV-20030313Coffee Klaing070099340013170000000000001131700000060000630499CB",
+  "output": false,
+  "reason": 12
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384954035.05802KH5916john smith actor6010Phnom Penh993400131700000000000011317000000600006304BE22",
+  "output": false,
+  "reason": 28
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021229190015john_smith@devb52045999530384954035.05802KH5916john smith actor6010Phnom Penh993400131700000000000011317000000600006304BE22",
+  "output": false,
+  "reason": 28
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020189B9",
+  "output": false,
+  "reason": 8
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020189B9",
+  "output": false,
+  "reason": 8
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963047EE5",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963047EE5",
+  "output": false,
+  "reason": 23
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "000300101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304E1F0",
+  "output": false,
+  "reason": 16
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "000300101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304E1F0",
+  "output": false,
+  "reason": 16
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "000201010301230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304B81D",
+  "output": false,
+  "reason": 17
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "000201010301230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304B81D",
+  "output": false,
+  "reason": 17
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021252045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963043CF0",
+  "output": false,
+  "reason": 5
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021252045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963043CF0",
+  "output": false,
+  "reason": 5
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230390035john_smmmmmmmmmmmithhhhhhhhhhh@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 2991700131614065683819630468D2",
+  "output": false,
+  "reason": 6
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230390035john_smmmmmmmmmmmithhhhhhhhhhh@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 2991700131614065683819630468D2",
+  "output": false,
+  "reason": 6
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190018john_smith_devb52045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304C9AB",
+  "output": false,
+  "reason": 3
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190018john_smith_devb52045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304C9AB",
+  "output": false,
+  "reason": 3
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304C2CC",
+  "output": false,
+  "reason": 25
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304C2CC",
+  "output": false,
+  "reason": 25
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb520559999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 2991700131614065683819630436B4",
+  "output": false,
+  "reason": 18
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb520559999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 2991700131614065683819630436B4",
+  "output": false,
+  "reason": 18
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb5204599954035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963040632",
+  "output": false,
+  "reason": 9
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb5204599954035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963040632",
+  "output": false,
+  "reason": 9
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb520459995304840054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963043695",
+  "output": false,
+  "reason": 19
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb520459995304840054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963043695",
+  "output": false,
+  "reason": 19
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb52045999530397854035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304D1EF",
+  "output": false,
+  "reason": 28
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb52045999530397854035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304D1EF",
+  "output": false,
+  "reason": 28
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb5204599953031165414500000000000.05802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963045D1B",
+  "output": false,
+  "reason": 4
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb5204599953031165414500000000000.05802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963045D1B",
+  "output": false,
+  "reason": 4
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304595E",
+  "output": false,
+  "reason": 26
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304595E",
+  "output": false,
+  "reason": 26
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230180014johnsmith@devb52045999530384054035005807VIETNAM5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963040FCA",
+  "output": false,
+  "reason": 20
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230180014johnsmith@devb52045999530384054035005807VIETNAM5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963040FCA",
+  "output": false,
+  "reason": 20
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304A4FB",
+  "output": false,
+  "reason": 2
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304A4FB",
+  "output": false,
+  "reason": 2
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5929Joooooooooooooooooooohn Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963040F02",
+  "output": false,
+  "reason": 7
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5929Joooooooooooooooooooohn Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963040F02",
+  "output": false,
+  "reason": 7
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304EF9D",
+  "output": false,
+  "reason": 27
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith62460111Invoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304EF9D",
+  "output": false,
+  "reason": 27
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6016Phnommmmmmm Penh62460111Invoice#0690314Coffee Khlaing0709Counter 2991700131614065683819630409D3",
+  "output": false,
+  "reason": 21
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6016Phnommmmmmm Penh62460111Invoice#0690314Coffee Khlaing0709Counter 2991700131614065683819630409D3",
+  "output": false,
+  "reason": 21
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62610126Invvvvvvvvvvvvvvvvoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304102E",
+  "output": false,
+  "reason": 10
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62610126Invvvvvvvvvvvvvvvvoice#0690314Coffee Khlaing0709Counter 29917001316140656838196304102E",
+  "output": false,
+  "reason": 10
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62590111Invoice#0690327Cooooooooooooooffee Khlaing0709Counter 299170013161406568381963040917",
+  "output": false,
+  "reason": 11
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62590111Invoice#0690327Cooooooooooooooffee Khlaing0709Counter 299170013161406568381963040917",
+  "output": false,
+  "reason": 11
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62640111Invoice#0690314Coffee Khlaing0727Cooooooooooooooooooounter 29917001316140656838196304B720",
+  "output": false,
+  "reason": 12
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62640111Invoice#0690314Coffee Khlaing0727Cooooooooooooooooooounter 29917001316140656838196304B720",
+  "output": false,
+  "reason": 12
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 2991700131614065683819F845",
+  "output": false,
+  "reason": 8
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 2991700131614065683819F845",
+  "output": false,
+  "reason": 8
+ },
+ {
+  "kind": "verify",
+  "now": 1700000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963050F276B262",
+  "output": false,
+  "reason": 8
+ },
+ {
+  "kind": "verify",
+  "now": 1800000000000,
+  "input": "00020101021230190015john_smith@devb52045999530384054035005802KH5910John Smith6010Phnom Penh62460111Invoice#0690314Coffee Khlaing0709Counter 299170013161406568381963050F276B262",
+  "output": false,
+  "reason": 8
+ }
+]
